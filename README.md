@@ -1,7 +1,7 @@
 # Student_records
 A Python-based command-line application to manage student records — add, view, search, update, delete, and analyze student data, all stored locally in a CSV file.
 
-# Student_Record_Manager
+# Student Record Manager
 
 👨‍🎓 A Python-based student record management system featuring student registration, record searching, updating, deletion, and class statistics using CSV file handling.
 
