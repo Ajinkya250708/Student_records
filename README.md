@@ -156,7 +156,7 @@ R.No      Name                          Marks
 ------------------------------------------------
 101         Bhavya Sehgal                 97.00
 102         Harshit Gaur                  44.00
-103         Dishita Maheshwari             78.00
+103         Dishita Maheshwari            78.00
 ================================================
 
 ```
